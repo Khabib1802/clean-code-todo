@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "lint": "eslint .",
-    "format": "prettier --check ."
+    "format": "prettier --check .",
+    "format:write": "prettier --write ."
   },
   "repository": {
     "type": "git",
